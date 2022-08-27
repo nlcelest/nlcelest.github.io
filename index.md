@@ -1,1 +1,1 @@
-<h1>Great LinedIn Learning Courses</h1>
+<h1>Great LinkedIn Learning Courses</h1>
